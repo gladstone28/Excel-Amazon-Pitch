@@ -14,9 +14,7 @@ body {
 }
 
 img {
-    height: 40px;
-    margin-top: 10px;
-    margin-left: 5px;
+    max-width: 100%;
 }
 
 h1,
@@ -41,7 +39,7 @@ ul {
 }
 
 .navbar .logo {
-    /*font-size: x-large;*/
+    font-size: x-large;
     font-weight: bold;
 }
 
