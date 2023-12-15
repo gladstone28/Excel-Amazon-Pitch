@@ -1,4 +1,4 @@
-Link to this course is below:
+Link to the course used as basis of this website is below:
 
 Flexbox Crash Course 2022
 
@@ -10,4 +10,6 @@ memory Jog:
 
 /c/Users/glads/Downloads/Flexbox-Crash-Course-2022-Project
 
+copied as the following
 
+/c/Users/glads/Downloads/Excel-Amazon-Pitch
