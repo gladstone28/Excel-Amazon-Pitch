@@ -105,6 +105,12 @@ ul {
     justify-content: space-between;
 }
 
+.footer {
+    background-color: #0151cc;
+    color: #fff;
+    min-height: 400px;
+}
+
 .boxes .container {
     display: flex;
     justify-content: space-between;
